@@ -21,6 +21,6 @@ python HitungJarak.py
 ```
 
 # ScreenShot #
-- `Welcome Screen`
+- `Run`
 
-  - <img src="ss.jpg" width="300"/>
+  - <img src="ss.png" width="300"/>
