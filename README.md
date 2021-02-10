@@ -23,4 +23,4 @@ python HitungJarak.py
 # ScreenShot #
 - `Run`
 
-  - <img src="ss.png" width="300"/>
+  - <img src="ss.png"/>
