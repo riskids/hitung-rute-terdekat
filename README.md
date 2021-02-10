@@ -19,3 +19,8 @@ Use Python 2.7 to run the program
 ```bash
 python HitungJarak.py
 ```
+
+# ScreenShot #
+- `Welcome Screen`
+
+  - <img src="ss.jpg" width="300"/>
